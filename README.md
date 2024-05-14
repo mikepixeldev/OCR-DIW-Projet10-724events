@@ -1,2 +1,15 @@
-# OCR-DIW-Projet10-724events
- Finalisation et débogage du site vitrine pour l'agence évènementielle 724events. Focus sur la résolution de bugs et la rédaction d'un cahier de recette.
+# 724 Events
+
+## Description
+L'application est le site d'une agence evenementielle.
+## Pre-requis
+- NodeJS  >= v16.14.1
+
+## Installation
+- `yarn install`
+
+## Lancement de l'application
+- `yarn start`
+
+## Tests
+- `yarn test`
